@@ -14,7 +14,7 @@ Goals: (4 week completion window)
     - Animated Patterns
     - Realsense image/object detection
     - Display object on mirror
-  
+   
 Current Revision: r.3.1
 
 Renders:
