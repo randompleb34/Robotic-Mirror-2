@@ -6,11 +6,14 @@ Description:
 Second Revision of the Robotic Mirror using 3in x 3in mirror powered by a Rasberry Pi 4 and Intel Realsense Camera.
 
 Goals: (4 week completion window)
-  Hardware
+ 
+ Hardware
+    
     - 96 individual mirror units (192 if time allows)
     - 2020 Aluminium extrusion frame
     
   Software
+    
     - Animated Patterns
     - Realsense image/object detection
     - Display object on mirror
