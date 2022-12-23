@@ -29,3 +29,6 @@ Final 3x2 Display r.2
 
 ![38196ff9-1d89-466c-b71b-cda742a37c0a](https://user-images.githubusercontent.com/97418292/169636792-af4ad783-ea76-4904-8855-771e596e31df.PNG)
 Mirror Unit (Exploded View) r.2
+
+Build Photos:
+89E270FB-F56C-4EB6-A4BA-0C6EEA5E370B_1_201_a.heic
