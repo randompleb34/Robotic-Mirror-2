@@ -31,4 +31,5 @@ Final 3x2 Display r.2
 Mirror Unit (Exploded View) r.2
 
 Build Photos:
-89E270FB-F56C-4EB6-A4BA-0C6EEA5E370B_1_201_a.heic
+![IMG_2319](https://user-images.githubusercontent.com/97418292/209269826-785c0554-9eb9-4e21-b47f-343422e1181f.jpeg)
+
